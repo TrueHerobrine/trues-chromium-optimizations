@@ -49,3 +49,5 @@
     ## That's it!
 
     ### Now, enjoy your newly optimized browser! So long!
+
+  ## Please create an issue if I've made a mistake.
